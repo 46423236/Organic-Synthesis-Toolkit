@@ -3,8 +3,10 @@
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/f2b38354-97f4-46b9-a113-8038cc8318c8" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/54b146df-1e58-4922-bd72-2a77b22b7d6f" />
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/96dbc5e1-5dfa-4406-8c59-b2566e689332" />
-![445eff3a1558e4a105164f429e5645b1](https://github.com/user-attachments/assets/8cc4010f-fcfe-4fe9-8baf-ca427b407647)
-> 一站式有机合成实验辅助工具集，涵盖化学计量计算、投料描述生成、库房管理与物质信息查询。⚠️第一打开加载缓慢后面就好了
+![20260413142805_33_7](https://github.com/user-attachments/assets/f740f54a-03c5-4447-8c80-386be9b578af)
+
+
+ 一站式有机合成实验辅助工具集，涵盖化学计量计算、投料描述生成、库房管理与物质信息查询。⚠️第一打开加载缓慢后面就好了
 ---
 ## 功能概览
 | 模块 | 说明 |
